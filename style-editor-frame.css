@@ -1,7 +1,7 @@
 /*!
 Twenty Nineteen Editor Frame Styles
 
-NOTE: This file customizes items that are out of the normal scope of style-editor.css due to the auto-prefixing functionality associated with add_editor_style(). When that file is able to edit the post title and a container similar to .edit-post-layout, these styles should be migrated into style-editor.css. 
+NOTE: This file customizes items that are out of the normal scope of style-editor.css due to the auto-prefixing functionality associated with add_editor_style(). When that file is able to edit the post title and a container similar to .edit-post-layout, these styles should be migrated into style-editor.css.
 */
 /** === Includes === */
 /* If we add the border using a regular CSS border, it won't look good on non-retina devices,
@@ -33,7 +33,7 @@ body.block-editor-page .block-editor .editor-post-title__block .editor-post-titl
 
 /** === Default Appender === */
 body.block-editor-page .block-editor .editor-default-block-appender__content {
-  font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
+  font-family: 'Montserrat', Arial, sans-serif, "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
   font-size: 22px;
 }
 
